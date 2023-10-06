@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">HW3</string>
+    <string name="reset_txt">RESET</string>
+    <string name="select_txt">SELECT</string>
+    <string name="sign_up_txt">SIGN UP</string>
+    <string name="futbal_txt">Futbal</string>
+    <string name="others_txt">Others</string>
+    <string name="tennis_txt">Tennis</string>
+    <string name="retype_txt">Retype</string>
+    <string name="female_txt">Female</string>
+    <string name="username_txt">Username</string>
+    <string name="password_txt">Password</string>
+    <string name="choose_your_birthdate_txt">choose your birthdate</string>
+    <string name="male_txt">Male</string>
+    <string name="birthdate_txt">Birthdate</string>
+    <string name="gender_txt">Gender</string>
+    <string name="hobbies_txt">Hobbies</string>
+    <string name="exit_txt">exit</string>
+    <string name="your_information_registered_txt">Your Information Registered</string>
+    <string name="exit_uppercase_txt">EXIT</string>
+</resources>
